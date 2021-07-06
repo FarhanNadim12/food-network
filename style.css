@@ -33,6 +33,16 @@ nav li{
     margin-top: 50px;
    
 }
+#recipies{
+    width: 100%;
+    
+  
+}
+#subscribe{
+    width: 100%;
+    height: 400px;
+    background-color: whitesmoke;
+}
 
 .left-content h1{
 font-size: 70px;
@@ -96,11 +106,7 @@ color: rgb(119, 117, 117);
     font-size: 30px;
 
 }
-#recipies{
-    width: 100%;
-    
-  
-}
+
 .recipies-container{
     display: flex;
     padding-bottom: 50px;
@@ -133,3 +139,47 @@ padding: 15px 20px;
     padding-bottom: 20px;
 
 }
+.subscribe-container{
+    width:70% ;
+   margin-left: 40%;
+   padding-top: 10%;
+
+}
+.subscribe-container input{
+    width:30% ;
+    height: 40px;
+    border-style: none;
+}
+.subscribe-container button{
+    border-style: none;
+    padding: 10px 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: orange;
+    cursor: pointer;
+    font-size: 20px;
+}
+footer{
+    height: 300px;
+    background-color: black;
+}
+footer h3{
+  text-align: center;
+  color: gray;
+  
+}
+footer span{
+    color: orange;
+    margin-top: 10px;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+
+    
+  }
+  footer div{
+      padding-top: 20px;
+  }
+  
