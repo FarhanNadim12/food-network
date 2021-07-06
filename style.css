@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:bisque;
+    padding: 1px 0;
+    
+}
+nav ul{
+    display: flex;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    font-weight: 700;
+}
+nav li{
+    list-style: none;
+    margin-left: 2%;
+}
+#top-section {
+    display: flex;
+}
+#second-section{
+    display: flex;
+    background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+   
+}
+
+.left-content h1{
+font-size: 70px;
+color: rgb(119, 117, 117);
+}
+
+.left-content{
+    width: 45%;
+    padding-left: 10%;
+    margin-top: 5%;
+}
+.right-content,.second-left-content{
+    width: 40%;
+    padding-left:10%;
+}
+.left-content span {
+    color: orange;
+   
+}
+.left-content a{
+    text-decoration: none;
+    background-image: linear-gradient( orange,tomato);
+    padding: 20px 45px;
+    border-radius: 30px;
+    color: white;
+}
+.second-right-content{
+    width: 45%;
+    padding-left: 10%;
+    margin-top: 15%;
+}
+.second-right-content h1{
+    font-size: 70px;
+color: rgb(119, 117, 117);
+}
+.second-right-content p{
+    font-weight: 700;
+    color: black;
+}
+
+.second-left-content img{
+    width: 60%;
+    padding-top: 40px;
+}
+.second-right-content a{
+    text-decoration: none;
+    background-image: linear-gradient( orange,tomato);
+    padding: 20px 45px;
+    border-radius: 30px;
+    color: white;
+}
