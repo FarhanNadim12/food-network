@@ -72,7 +72,7 @@ color: rgb(119, 117, 117);
 .second-right-content{
     width: 45%;
     padding-left: 10%;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 .second-right-content h1{
     font-size: 70px;
@@ -182,4 +182,3 @@ footer p{
   footer div{
       padding-top: 20px;
   }
-  
